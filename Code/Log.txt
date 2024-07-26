@@ -1,0 +1,66 @@
+
+Total number of parameters in the model: 6633350
+Noumber of training samples: 5000
+Learning rate: 0.005
+Training Epoch [1/10], Batch [50/125], Loss: 0.29398603
+Training Epoch [1/10], Batch [100/125], Loss: 0.00108254
+Training Epoch [1/10], Batch [125/125], Loss: 0.00051236
+Epoch Loss: 0.11823237
+Validation - Epoch [1/10], Validation Loss: 0.00003162
+Time taken for epoch 1: 119.12 seconds
+Training Epoch [2/10], Batch [50/125], Loss: 0.00098025
+Training Epoch [2/10], Batch [100/125], Loss: 0.00088114
+Training Epoch [2/10], Batch [125/125], Loss: 0.00041863
+Epoch Loss: 0.00091201
+Validation - Epoch [2/10], Validation Loss: 0.00002772
+Time taken for epoch 2: 118.77 seconds
+Training Epoch [3/10], Batch [50/125], Loss: 0.00080906
+Training Epoch [3/10], Batch [100/125], Loss: 0.00075177
+Training Epoch [3/10], Batch [125/125], Loss: 0.00036775
+Epoch Loss: 0.00077143
+Validation - Epoch [3/10], Validation Loss: 0.00002348
+Time taken for epoch 3: 118.81 seconds
+Training Epoch [4/10], Batch [50/125], Loss: 0.00067857
+Training Epoch [4/10], Batch [100/125], Loss: 0.00067303
+Training Epoch [4/10], Batch [125/125], Loss: 0.00033332
+Epoch Loss: 0.00067397
+Validation - Epoch [4/10], Validation Loss: 0.00002139
+Time taken for epoch 4: 118.78 seconds
+Training Epoch [5/10], Batch [50/125], Loss: 0.00064369
+Training Epoch [5/10], Batch [100/125], Loss: 0.00062530
+Training Epoch [5/10], Batch [125/125], Loss: 0.00030812
+Epoch Loss: 0.00063084
+Validation - Epoch [5/10], Validation Loss: 0.00002016
+Time taken for epoch 5: 118.88 seconds
+Training Epoch [6/10], Batch [50/125], Loss: 0.00060831
+Training Epoch [6/10], Batch [100/125], Loss: 0.00058987
+Training Epoch [6/10], Batch [125/125], Loss: 0.00030684
+Epoch Loss: 0.00060201
+Validation - Epoch [6/10], Validation Loss: 0.00001950
+Time taken for epoch 6: 118.71 seconds
+Training Epoch [7/10], Batch [50/125], Loss: 0.00058109
+Training Epoch [7/10], Batch [100/125], Loss: 0.00056829
+Training Epoch [7/10], Batch [125/125], Loss: 0.00031090
+Epoch Loss: 0.00058411
+Validation - Epoch [7/10], Validation Loss: 0.00001979
+Time taken for epoch 7: 118.95 seconds
+Training Epoch [8/10], Batch [50/125], Loss: 0.00061519
+Training Epoch [8/10], Batch [100/125], Loss: 0.00058593
+Training Epoch [8/10], Batch [125/125], Loss: 0.00028387
+Epoch Loss: 0.00059400
+Validation - Epoch [8/10], Validation Loss: 0.00001899
+Time taken for epoch 8: 118.97 seconds
+Training Epoch [9/10], Batch [50/125], Loss: 0.00056431
+Training Epoch [9/10], Batch [100/125], Loss: 0.00055900
+Training Epoch [9/10], Batch [125/125], Loss: 0.00026471
+Epoch Loss: 0.00055521
+Validation - Epoch [9/10], Validation Loss: 0.00001799
+Time taken for epoch 9: 118.88 seconds
+Training Epoch [10/10], Batch [50/125], Loss: 0.00056090
+Training Epoch [10/10], Batch [100/125], Loss: 0.00053431
+Training Epoch [10/10], Batch [125/125], Loss: 0.00026765
+Epoch Loss: 0.00054514
+Validation - Epoch [10/10], Validation Loss: 0.00001767
+Time taken for epoch 10: 118.87 seconds
+Average Test Loss: 0.00097397
+Average PSNR: 28.417050705229006 dB
